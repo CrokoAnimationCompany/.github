@@ -1,1 +1,1 @@
-# .github
+# Croko Animation Company
